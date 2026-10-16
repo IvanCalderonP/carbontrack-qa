@@ -1,0 +1,8 @@
+.venv
+.tmp
+.pytest_cache
+.ruff_cache
+tests
+htmlcov
+*.sqlite
+.env
